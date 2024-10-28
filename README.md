@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Veganworld](https://github.com/JJFlor/VeganWorld)
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Python**
 
 - 👯 I’m looking to collaborate on **Python and SQL projects**
 
